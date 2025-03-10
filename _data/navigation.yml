@@ -4,24 +4,19 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+# main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Papers/Talks"
+   # url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Teaching & Mentorship"
+    url: /teaching-mentorship/   
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Resources & Fun Stuff"
+    url: /resources-fun/ 
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/Senior Year CV.pdf
