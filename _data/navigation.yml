@@ -15,8 +15,8 @@ main:
   - title: "Teaching & Mentorship"
     url: /teaching-mentorship/   
     
-  - title: "Resources & Fun Stuff"
-    url: /resources-fun/ 
+  # - title: "Resources & Fun Stuff"
+  #   url: /resources-fun/ 
     
   - title: "CV"
     url: /files/Senior Year CV.pdf
