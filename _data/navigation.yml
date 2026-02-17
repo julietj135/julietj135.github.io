@@ -12,8 +12,8 @@ main:
   #- title: "Papers/Talks"
    # url: /talks/    
 
-  - title: "Teaching & Mentorship"
-    url: /teaching-mentorship/   
+  # - title: "Teaching & Mentorship"
+  #   url: /teaching-mentorship/   
     
   # - title: "Resources & Fun Stuff"
   #   url: /resources-fun/ 

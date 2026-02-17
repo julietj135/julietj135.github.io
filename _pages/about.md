@@ -15,4 +15,4 @@ Before Chicago, I was an undergraduate at Duke University studying Biomedical En
 
 I am a recipient of the Goldwater Scholarship and the NSF GRFP, and was a SPIRE Fellow at Duke! I also did a short stint as an analytical development intern at Moderna, where I realized academia is where I actually belong :)
 
-Outside of STEM I LOVE dancing, baking, and exploring restaurants! 
+Outside of STEM I enjoy dancing, baking, and exploring restaurants! 
