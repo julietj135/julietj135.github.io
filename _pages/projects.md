@@ -17,3 +17,14 @@ This page is still under construction.
   
 * ### Personalized Computational Causal Modeling of the Alzheimer Disease Biomarker Cascade
 ([JPAD paper](https://www.sciencedirect.com/science/article/pii/S2274580724000918))
+
+* ### Identifying When Steady-State Flow Simulations In Patient-Specific Coronaries Recapitulate Pulsatile Flow Dynamics ([IEEE EMBC Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12233029/))
+
+* ### Particle Deposition Driven by Evaporation in Membrane Pores and Droplets ([SIAM SIURO Paper](https://par.nsf.gov/servlets/purl/10515436))
+
+* ### Other posters
+  * ## Hemodynamic sensitivity to heart-rate in the coronary arteries (BMES 2023)
+
+  ![image info](./sc23_parashot.png)
+
+
