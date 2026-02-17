@@ -15,8 +15,7 @@ This page is still under construction.
 
   ![image info](./CCM_ICERM.png)
   
-* ### Personalized Computational Causal Modeling of the Alzheimer Disease Biomarker Cascade
-([JPAD paper](https://www.sciencedirect.com/science/article/pii/S2274580724000918))
+* ### Personalized Computational Causal Modeling of the Alzheimer Disease Biomarker Cascade ([JPAD paper](https://www.sciencedirect.com/science/article/pii/S2274580724000918))
 
 * ### Identifying When Steady-State Flow Simulations In Patient-Specific Coronaries Recapitulate Pulsatile Flow Dynamics ([IEEE EMBC Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12233029/))
 
