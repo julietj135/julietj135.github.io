@@ -13,7 +13,9 @@ This page is still under construction.
 
   Preprint: Juliet Jiang, Jeffrey R. Petrella, Wenrui Hao, for the Alzheimer’s Disease Neuroimaging Initiative. BiorXiv. (Preparing submission)
 
-  ![image info](./CCM_ICERM.png)
+  <p align="center">
+    <img src="./CCM_ICERM.png" width="70%">
+  </p>
   
 * ### Personalized Computational Causal Modeling of the Alzheimer Disease Biomarker Cascade ([JPAD paper](https://www.sciencedirect.com/science/article/pii/S2274580724000918))
 
@@ -24,6 +26,9 @@ This page is still under construction.
 * ### Other posters
   * ## Hemodynamic sensitivity to heart-rate in the coronary arteries (BMES 2023)
 
-  ![image info](./sc23_parashot.png)
+  <p align="center">
+  <img src="./sc23_parashot.png" width="70%">
+    </p>
+
 
 
