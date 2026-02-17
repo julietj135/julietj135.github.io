@@ -21,8 +21,7 @@ This page is still under construction.
 
 * ## Particle Deposition Driven by Evaporation in Membrane Pores and Droplets ([SIAM SIURO Paper](https://par.nsf.gov/servlets/purl/10515436))
     In this paper, we examined how evaporation can compete with influences of diffusion and deposition in a particle-ladened fluid. For diffusion-dominated problems, PDEs and SDEs for particle transport were studied to observe deposition behavior on solid boundaries produced in different parameter regimes. Computationally scaled 2D models were then simulated to obtain the temporal evolution of the particle concentration and deposition patterns in a rectangular pore and also for sessile drops on flat solids.
-    ![image info](./figures/figure1.png)
-    ![image info](./figures/twoparticles.png)
+    ![image info](./figures/figure1.png) ![image info](./figures/twoparticles.png)
 
 * ## Other posters
   * ### Hemodynamic sensitivity to heart-rate in the coronary arteries (BMES 2023)
