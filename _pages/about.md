@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! My name is Juliet and I'm currently a first year Computational Neuroscience PhD student at the University of Chicago. 
+Hello! I am a first year Computational Neuroscience PhD student in the [Doiron Lab](https://brainmath.bsd.uchicago.edu/people/), led by [Brent Doiron](https://neurobiology.uchicago.edu/faculty/brent-doiron-phd) in the [Grossman Center](https://neuroscience.uchicago.edu/grossman-center-core-faculty) at the University of Chicago.
 
 Before Chicago, I was an undergraduate at Duke University studying Biomedical Engineering and Mathematics. I worked in [Dr. Timothy Dunn's](https://www.tdunnlab.org/) lab with Kyungdo Kim and Sihan Lyu on the applications of autoregressive hidden Markov models on Parkinsonian behavioral data. I'm grateful to have investigated computational fluid dynamic simulations in the coronary arteries under the advisory of [Dr. Amanda Randles](https://randleslab.pratt.duke.edu/members/amanda-randles) and the mentorship of Cyrus Tanade. I was also incredibly lucky to work under [Dr. Jeffrey Petrella](https://radiology.duke.edu/profile/jeffrey-robert-petrella) and [Dr. Wenrui Hao](https://sites.psu.edu/whao/), studying personalized digital twin models of Alzheimer's disease progression. Additionally, I had the honor of being an advisee and mentee of [Dr. Thomas Witelski](https://sites.math.duke.edu/~witelski/), with whom I studied evaporation and deposition in a microscale pore. 
 
