@@ -33,7 +33,7 @@ This page is still under construction.
     ![image info](./figures/deposition.png)
 
 * ## Other posters
-  * ### Computational and behavioral insights into locomotor learning in Parkinson’s disease
+  * ### Computational and behavioral insights into locomotor learning in Parkinson’s disease (Graduation with Distinction 2025)
   ![image info](./figures/GWDD_poster.png)
   * ### Hemodynamic sensitivity to heart-rate in the coronary arteries (BMES 2023)
   ![image info](./figures/sc23_parashot.png)
