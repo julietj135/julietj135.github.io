@@ -20,7 +20,7 @@ This page is still under construction.
 
     Petrella, J. R., **Jiang, J.**, Sreeram, K., Dalziel, S., Doraiswamy, P. M., Hao, W., & Alzheimer's Disease Neuroimaging Initiative. (2024). Personalized computational causal modeling of the Alzheimer disease biomarker cascade. The journal of prevention of Alzheimer's disease, 11(2), 435-444.
 
-* ## Identifying When Steady-State Flow Simulations In Patient-Specific Coronaries Recapitulate Pulsatile Flow Dynamics ([IEEE EMBC Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12233029/))
+* ## Identifying When Steady-State Flow Simulations In Patient-Specific Coronaries Recapitulate Pulsatile Flow Dynamics ([IEEE EMBC Paper](./files/Identifying_When_Steady-State_Flow_Simulations_In_Patient-Specific_Coronaries_Recapitulate_Pulsatile_Flow_Dynamics.pdf))
     Computational fluid dynamics (CFD) models provide a non-invasive means of assessing coronary artery disease, but physiologically realistic pulsatile simulations are computationally expensive. In this work, we compared steady-state and pulsatile simulations in patients with stenosed coronary arteries to determine whether simpler steady-state models can accurately reproduce key hemodynamic metrics—including fractional flow reserve (FFR), velocity, vorticity, and wall shear stress—across the cardiac cycle. Undergraduate work with Dr. Amanda Randles.
 
     **Jiang J** (co-first), Huber M (co-first), Tanade C, Randles A. Identifying When Steady-State Flow Simulations In Patient-Specific Coronaries Recapitulate Pulsatile Flow Dynamics. Annu Int Conf IEEE Eng Med Biol Soc. 2024;2024:1-4. doi:10.1109/EMBC53108.2024.10781714
