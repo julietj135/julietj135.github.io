@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+Hello! I am a second year Computational Neuroscience PhD student in the [Doiron Lab](https://brainmath.bsd.uchicago.edu/people/), led by [Brent Doiron](https://neurobiology.uchicago.edu/faculty/brent-doiron-phd) in the [Grossman Center](https://neuroscience.uchicago.edu/grossman-center-core-faculty) at the University of Chicago. I am funded by the NSF GRFP.
 
-Hello! I am a first year Computational Neuroscience PhD student in the [Doiron Lab](https://brainmath.bsd.uchicago.edu/people/), led by [Brent Doiron](https://neurobiology.uchicago.edu/faculty/brent-doiron-phd) in the [Grossman Center](https://neuroscience.uchicago.edu/grossman-center-core-faculty) at the University of Chicago. I am funded by the NSF GRFP.
+# Research interests
+I am largely interested in how neuronal variability enables or influences circuits to perform computations relevant to cognition. Currently, I am more curious about this at the multi-regional level, where within- and between-region statitics and patterns greatly impact response dynamics, geometry, and thus computational capability. 
 
+# Background
 Before Chicago, I was an undergraduate at Duke University studying Biomedical Engineering and Mathematics. I worked in [Dr. Timothy Dunn's](https://www.tdunnlab.org/) lab with Kyungdo Kim and Sihan Lyu on the applications of autoregressive hidden Markov models on Parkinsonian behavioral data. I'm grateful to have investigated computational fluid dynamic simulations in the coronary arteries under the advisory of [Dr. Amanda Randles](https://randleslab.pratt.duke.edu/members/amanda-randles) and the mentorship of Cyrus Tanade. I was also incredibly lucky to work under [Dr. Jeffrey Petrella](https://radiology.duke.edu/profile/jeffrey-robert-petrella) and [Dr. Wenrui Hao](https://sites.psu.edu/whao/), studying personalized digital twin models of Alzheimer's disease progression. Additionally, I had the honor of being an advisee and mentee of [Dr. Thomas Witelski](https://sites.math.duke.edu/~witelski/), with whom I studied evaporation and deposition in a microscale pore. I am a recipient of the Goldwater Scholarship and was a SPIRE Fellow at Duke. 
 
-I also did a short stint as an analytical development intern at Moderna, where I realized academia is where I actually belong :). Outside of STEM I enjoy dancing, baking, and exploring restaurants! 
+I also did a short stint as an analytical development intern at Moderna. Outside of STEM I enjoy dancing, baking, and exploring restaurants! 
